@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuchen2022
-- 👀 I’m interested in react .
+- 👀 I’m interested in front-end developement .
 - 🌱 I’m currently learning js and its libraries.
 - 💞️ I’m looking to collaborate on html based projects.
 - 📫 How to reach me :via email.
