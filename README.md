@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yuchen2022
-- 👀 I’m interested in front-end developement .
-- 🌱 I’m currently learning js and its libraries.
-- 💞️ I’m looking to collaborate on html based projects.
-- 📫 How to reach me :via email.
+- 👀 I’m interested in front-end developement.
+- 🌱 I’m currently working with vue js.
+- 💞️ I’m looking to collaborate on vuejs based projects.
+- 📫 How to reach me: via email.
 
 <!---
 yuchen2022/yuchen2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
