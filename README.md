@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuchen2022
 - 👀 I’m interested in front-end developement.
-- 🌱 I’m currently working with vue js.
+- 🌱 I’m currently working with vue js and typescript.
 - 💞️ I’m looking to collaborate on vuejs based projects.
 - 📫 How to reach me: via email.
 
